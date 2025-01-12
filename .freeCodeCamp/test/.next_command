@@ -231,3 +231,11 @@ git remote add origin https://github.com/Asrar000123/Build-a-Mario-Database
 git remote remove origin
 git remote add origin https://github.com/Asrar000123/Build-a-Mario-Database
 git add .
+git commit -m "1/12/2025-6.41 pm"
+__vsc_prompt_cmd_original
+git push origin main
+git push origin main
+git push origin main
+git remote remove origin
+git remote add origin https://github.com/Asrar421/Build-a-Mario-Database
+git add .
